@@ -1,6 +1,4 @@
-﻿using Flunt.Notifications;
-
-namespace Nascimento.Software.University.Domain.Entities.ValueObjects;
+﻿namespace Nascimento.Software.University.Domain.Entities.ValueObjects;
 
 public class Email : ValueObject
 {
